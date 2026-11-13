@@ -1,4 +1,4 @@
-# Bài làm · Dương Ngọc Tuyền (2A202603511)
+# Bài làm · Dương Ngọc Tuyên (2A202603511)
 
 Corpus: OpenStax *Introduction to Intellectual Property* (CC BY 4.0), Chương 3–5, 73 trang nội dung. Embedding: `BAAI/bge-small-en-v1.5` chạy local qua fastembed/ONNX (384 chiều), lưu và truy xuất bằng PostgreSQL 16 + pgvector 0.8.7 với cosine exact search; chi phí 0 USD. Báo cáo: [report/individual/2A202603511_DuongNgocTuyen.md](report/individual/2A202603511_DuongNgocTuyen.md).
 
