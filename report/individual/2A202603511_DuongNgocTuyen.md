@@ -1,6 +1,6 @@
 # Báo cáo cá nhân — Day 6
 
-**Phan Sỹ Hùng · 2A202603420 · L3A** · Chạy ngày 2026-11-13 (UTC `2026-11-13T10:19:06`).
+**Dương Ngọc Tuyên · 2A202603511 · L3A** · Chạy ngày 2026-11-13 (UTC `2026-11-13T10:19:06`).
 
 ## Dữ liệu và pipeline
 
